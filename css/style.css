@@ -24,10 +24,15 @@ main h1{
 main img{
 float: right;
 size: 20%;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 150px;
 
 }
 
 footer{
 text-align: center;
+clear: both;
 
 }
