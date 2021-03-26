@@ -2,3 +2,31 @@ header h1 {
 
         color: aqua;
 }
+nav ul li {
+
+     float: left;
+     list-style-type: none;
+
+
+}
+nav ul {padding: 0;}
+
+nav ul li a {
+
+    display: block;
+    padding: .5rem 1rem;
+    background-color: brown;
+
+}
+main h1{
+    clear: both;
+}
+main img{
+float: right;
+
+}
+
+footer{
+text-align: center;
+
+}
