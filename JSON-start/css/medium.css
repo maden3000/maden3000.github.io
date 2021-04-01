@@ -7,7 +7,11 @@
 
 
 /*----------- HEADER --------------*/
-
+div#wrapperImg{
+   
+    background-image: url(../images/header-medium.jpg); 
+    height: 349px;
+}
 
 
 /*----------- NAVIGATION --------------*/

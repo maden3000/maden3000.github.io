@@ -12,7 +12,12 @@
 
 /*----------- HEADER --------------*/
 
-
+div#wrapperImg{
+   
+    background-image: url(../images/header-large.jpg); 
+    height: 400px;
+    background-size: cover;
+}
 
 /*----------- NAVIGATION --------------*/
 

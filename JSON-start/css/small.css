@@ -13,11 +13,17 @@ body {
 
 
 /*----------- HEADER --------------*/
+div#wrapperImg{
+   
+    background-image: url(../images/header-small.jpg); 
+    height: 204px;
+}
 header {
     padding: .5rem 2%;
-    background-color: #ddd;
+    color: red;
+   
 }
-header h1 {margin: 0;}
+header h1 {margin: 0; }
 header h2 {margin: 0; font-weight: normal;}
 
 /*----------- NAVIGATION --------------*/
@@ -75,3 +81,7 @@ footer {
   display: table;
   clear: both;
 }
+div#coloreB{background-color: aqua}
+
+.showme{display: block}
+.hide{display: none}
